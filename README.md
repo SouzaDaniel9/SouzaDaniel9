@@ -1,5 +1,15 @@
-### Hi there 👋
+### Olá, eu sou Daniel Souza
 
+Estudante de programação e em busca da primeira vaga como dev backend
+
+<div style="display:inline_block"><br>
+<img align="center" alt="Js" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img align="center" alt="Sb" height="60" widht="80" src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg"/>
+</div>
+
+          
+          
+          
 <!--
 **SouzaDaniel9/SouzaDaniel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
